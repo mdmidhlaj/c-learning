@@ -1,0 +1,3 @@
+mya 	 102 	 passed
+mza 	 102 	 passed
+mxa 	 102 	 passed 
