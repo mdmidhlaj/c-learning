@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1724086539 source:c:\users\user\desktop\prog\c prog\tic tac\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
