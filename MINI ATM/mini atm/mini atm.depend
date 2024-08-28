@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724834646 source:c:\users\user\desktop\prog\c prog\mini atm\main.c
+	<stdio.h>
+	<stdlib.h>
+
