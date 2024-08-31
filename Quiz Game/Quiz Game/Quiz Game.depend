@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725025902 source:c:\users\user\desktop\prog\c prog\quiz game\main.c
+	<stdio.h>
+	<stdlib.h>
+
