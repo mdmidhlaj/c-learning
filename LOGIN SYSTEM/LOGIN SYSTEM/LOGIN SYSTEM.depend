@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725123297 source:c:\users\user\desktop\prog\c prog\login system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
